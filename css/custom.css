@@ -1,0 +1,153 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+:root {
+	--cnvs-themecolor: 		#FF914D;
+	--cnvs-themecolor-rgb: 255,140,0;
+}
+
+price-price {
+    color: orange;
+}
+
+
+@font-face {
+    font-family: gagalinfont;
+    src: url(gagalin.otf); 
+}
+
+h1, font-border display-4 ls-1 fw-bold mb-0  ms-3 {
+    font-family: gagalinfont;
+    
+}
+
+div, price-name color {
+    font-family: Raleway;
+}
+
+#our-story {
+    font-family: gagalinfont;
+     color: #FF914D;
+}
+
+#our-family-story {
+    font-family: gagalinfont;
+   
+}
+
+div, .footer-headings {
+    font-family: gagalinfont;
+     color: #FF914D;
+}
+
+#taste-of-home {
+    font-family: gagalinfont;
+     color: #FF914D;
+}
+
+
+#affordable-elegance {
+    font-family: gagalinfont;
+     
+}
+
+#catery-story {
+    font-family: Raleway;
+    color: black;
+}
+
+#review {
+     font-family: gagalinfont;
+    
+}
+
+#review-comments {
+    font-family: Raleway;
+    
+}
+
+h4, .review-names {
+     font-family: Raleway;
+}
+
+h3, .review-comments {
+    font-family:  Raleway;
+}
+
+
+h1, #menu-menu {
+    font-family: gagalinfont;
+     color: #FF914D;
+}
+
+
+span, .fw-normal {
+font-family: Raleway;
+}
+
+h1, .menu-titles {
+    font-family: gagalinfont;
+     color: #FF914D;
+
+}
+
+div, .menu-menu {
+    font-family: gagalinfont;
+     color: #FF914D;
+}
+
+div, .food-name-menu {
+     font-family:  Raleway;
+}
+
+p, .price-desc-color {
+    font-family:  Raleway;
+    color: #CF0202;
+}
+
+p, .slider-font-color {
+    color: white;
+}
+
+div, .main-buttons {
+    font-family: gagalinfont;
+}
+
+#how-we-work {
+     font-family: gagalinfont;
+    
+}
+
+#process-stepone {
+    font-family: gagalinfont;
+}
+
+#process-steptwo {
+    font-family: gagalinfont;
+}
+
+#process-stepthree {
+    font-family: gagalinfont;
+}
+
+
+#process-stepfour {
+    font-family: gagalinfont;
+}
+
+p, .process-desc {
+    font-family: Raleway;
+}
+
+#uber-doordash {
+    font-family: gagalinfont;
+    color: #FF914D;
+}
+
+i, .pax {
+    font-family: gagalinfont;
+    color: black;
+}
